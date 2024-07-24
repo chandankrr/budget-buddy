@@ -22,7 +22,7 @@ React-Native, NativeWind, Spring Boot, Flask, MySQL, Redis, Kafka, Docker
 - [Expense Service](https://github.com/chandankrr/expense-service)
 
 ## Data Flow Diagram
-![03](https://github.com/user-attachments/assets/d575fad6-c253-49e5-aa71-a76ac81c89ba)
+![03](https://github.com/user-attachments/assets/2721b152-fcd4-4476-94fd-9a006258e35e)
 
 
 ## Screenshots
