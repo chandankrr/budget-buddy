@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "expense-tracker-client",
-    "slug": "expense-tracker-client",
+    "name": "Budget Buddy",
+    "slug": "budget-buddy",
+    "scheme": "budget-buddy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": ["expo-router"]
   }
 }
