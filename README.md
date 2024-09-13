@@ -2,6 +2,8 @@
 
 Developed a comprehensive Expense Tracker application for efficient financial management, incorporating user authentication, manual and automated expense tracking, and delivering personalized financial tips and alerts.
 
+![Project1](https://github.com/user-attachments/assets/0195b8e3-3721-47b6-89e2-d42a9a2a2db5)
+
 ## Features
 
 - Added features like **user authentication**, **manual expense management**, and **automated expense tracking through SMS parsing functionality using a Large Learning model (Mistral AI)**.
